@@ -8,7 +8,9 @@
  */
 
 function greet(name) {}
-
+if (name ){
+    
+}
 /*
  * isOdd(n) اسم الدالة
  * - n تستقبل رقم
